@@ -22,6 +22,7 @@ public class Main {
      */
     
     // Try comment........
+    // Other comment
     public static void mainMenu() {
         System.out.println("1. Add a recipe");
         System.out.println("2. Delete a recipe");
